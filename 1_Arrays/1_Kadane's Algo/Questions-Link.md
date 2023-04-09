@@ -1,1 +1,2 @@
-1. https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/110297/offering/1280152
+1. https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118820/offering/1381870
+2. https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118820/offering/1381872
